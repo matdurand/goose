@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/pressly/goose/v3/database"
-	"github.com/pressly/goose/v3/lock"
+	"github.com/matdurand/goose/database"
+	"github.com/matdurand/goose/lock"
 )
 
 const (

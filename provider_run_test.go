@@ -14,8 +14,8 @@ import (
 	"testing"
 	"testing/fstest"
 
-	"github.com/pressly/goose/v3"
-	"github.com/pressly/goose/v3/database"
+	"github.com/matdurand/goose"
+	"github.com/matdurand/goose/database"
 	"github.com/stretchr/testify/require"
 )
 

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pressly/goose/v3/database"
-	"github.com/pressly/goose/v3/internal/sqlparser"
+	"github.com/matdurand/goose/database"
+	"github.com/matdurand/goose/internal/sqlparser"
 	"github.com/sethvargo/go-retry"
 	"go.uber.org/multierr"
 )

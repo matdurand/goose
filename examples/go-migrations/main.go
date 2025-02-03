@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pressly/goose/v3"
+	"github.com/matdurand/goose"
 	_ "modernc.org/sqlite"
 )
 
